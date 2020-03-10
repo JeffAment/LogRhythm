@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LogRhythm</string>
+    <string name="edit_text_hint">Enter Number</string>
+    <string name="cb_text_incoming">Incoming</string>
+    <string name="cb_text_outgoing">Outgoing</string>
+    <string name="cb_text_unique">Unique</string>
+</resources>
